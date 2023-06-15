@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=tsenovilla&icon=0&color=4)](https://visitcount.itsvg.in) 
 # About Me:   
 Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new programming challenge to deal with.
-I've been programming for years, combining it with my maths and cryptography studies, then working as a software developer, where I created back-end for banking products. But it was by the end of 2022 when I decided to fully concentrate myself in improving my programming skills and expand my tech stack. I'm mainly interested in building Blockchain decentralized applications, but I also have plans to build some "traditional" web apps. That's why I'm learning as much as I can about both worlds, Blockchain and Web development. 
+I've been programming for years, combining it with my maths and cryptography studies, then working as a software developer, where I created back-end solutions for banking products. But by the end of 2022, I decided to fully focus on improving my programming skills and expanding my tech stack. I'm mainly interested in building Blockchain decentralized applications, but I also have plans to build some "traditional" web apps. That's why I'm learning as much as I can about both worlds, Blockchain and Web development. 
 
 I invite y'all to get to know me better through my LinkedIn page :grinning:
 
@@ -51,6 +51,8 @@ tspscgs@gmail.com
 ![PIP](https://img.shields.io/badge/-PIP-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Composer](https://img.shields.io/badge/-Composer-885630?style=for-the-badge&logo=composer&logoColor=white)
+
 #### Version control
 ![Git](https://camo.githubusercontent.com/61ccaa7fd5962acc1e505bf3492e34d5811c8316d86f07e0491fc69d8958b74b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974)
 ![GitHub](https://camo.githubusercontent.com/851717fe1659e3f6c285f37a7793de4197340d3a5cf8fdcde12577cdcf2afcf9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562)
