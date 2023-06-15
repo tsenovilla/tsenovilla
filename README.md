@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=tsenovilla&icon=0&color=4)](https://visitcount.itsvg.in) 
 # About Me:   
 Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new programming challenge to deal with.
-I've been programming for years, combining it with my maths and cryptography studies, then working as a software developer, coding back-end for banking software. But it was by the end of 2022 when I decided to fully concentrate myself in improving my programming skills and expand my tech stack. I'm mainly interested in building Blockchain decentralized applications, but I also have plans to build some "traditional" web apps. That's why I'm learning as much as I can about both worlds, Blockchain and Web development. 
+I've been programming for years, combining it with my maths and cryptography studies, then working as a software developer, where I created back-end for banking products. But it was by the end of 2022 when I decided to fully concentrate myself in improving my programming skills and expand my tech stack. I'm mainly interested in building Blockchain decentralized applications, but I also have plans to build some "traditional" web apps. That's why I'm learning as much as I can about both worlds, Blockchain and Web development. 
 
 I invite y'all to know me a bit else through my LinkedIn page :grinning:
 If you are looking for some programming collaboration, or just wanna contact me, feel free to do it, I will be happy to meet you! 
