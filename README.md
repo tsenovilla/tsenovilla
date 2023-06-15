@@ -1,5 +1,6 @@
-# 💫 About Me:
-Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new  
+# About Me:
+Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new programming challenge to deal with. 
+I'm interested in 
 
 
 ## 🌐 Socials:
@@ -30,7 +31,9 @@ https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
-#### Package managers
+#### Package/Environment managers
+![PIP](https://img.shields.io/badge/-PIP-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
+![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 #### Version control
 ![Git](https://camo.githubusercontent.com/61ccaa7fd5962acc1e505bf3492e34d5811c8316d86f07e0491fc69d8958b74b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d3030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974)
