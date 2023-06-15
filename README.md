@@ -1,12 +1,20 @@
-# About Me:
-Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new programming challenge to deal with. 
-I'm interested in 
+[![](https://visitcount.itsvg.in/api?id=tsenovilla&icon=0&color=4)](https://visitcount.itsvg.in) 
+# About Me:   
+Hello there! This is Tomás Senovilla. I'm a passionate about the world of technology, always looking for a new programming challenge to deal with.
+I've been programming for years, combining it with my maths and cryptography studies, then working as a software developer, coding back-end for banking software. But it was by the end of 2022 when I decided to fully concentrate myself in improving my programming skills and expand my tech stack. I'm mainly interested in building Blockchain decentralized applications, but I also have plans to build some "traditional" web apps. That's why I'm learning as much as I can about both worlds, Blockchain and Web development. 
 
+I invite y'all to know me a bit else through my LinkedIn page :grinning:
+If you are looking for some programming collaboration, or just wanna contact me, feel free to do it, I will be happy to meet you! 
+I can speak: :es: :uk: :fr:
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
+
+![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)
+
+tspscgs@gmail.com
 
 # 💻 Tech Stack:
 #### Programming languages
@@ -24,6 +32,9 @@ https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
 #### Frameworks
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Brownie](https://img.shields.io/badge/-Brownie-795548?style=for-the-badge&logo=python&logoColor=white)
+![Truffle](https://img.shields.io/badge/-Truffle-5E5E5E?style=for-the-badge&logo=ethereum&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F68535?style=for-the-badge&logo=ethereum&logoColor=white)
 #### Database managers
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -31,6 +42,9 @@ https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+#### Data serialization
+![JSON](https://img.shields.io/badge/-JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![YAML](https://img.shields.io/badge/-YAML-000000?style=for-the-badge&logo=yaml&logoColor=white)
 #### Package/Environment managers
 ![PIP](https://img.shields.io/badge/-PIP-3776AB?style=for-the-badge&logo=pypi&logoColor=white)
 ![Conda](https://img.shields.io/badge/-Conda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -44,7 +58,4 @@ https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=tsenovilla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=tsenovilla&theme=monokai&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsenovilla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=tsenovilla&icon=0&color=4)](https://visitcount.itsvg.in)     
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tsenovilla&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact) 
