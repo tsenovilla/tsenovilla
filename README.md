@@ -6,6 +6,7 @@ I've been programming for years, combining it with my maths and cryptography stu
 I invite y'all to get to know me better through my LinkedIn page :grinning:
 
 If you are looking for some programming collaboration, or just wanna contact me, feel free to do it, I will be happy to meet you! 
+
 I can speak: :es: :uk: :fr:
 
 ## 🌐 Socials:
