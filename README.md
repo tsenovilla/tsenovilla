@@ -10,13 +10,8 @@ If you are looking for some programming collaboration, or just wanna contact me,
 I speak: :es: :uk: :fr:
 
 ## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187
-
-![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)
-
-tspscgs@gmail.com
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomás-senovilla-polo-3989a9187)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:tspscgs@gmail.com)
 
 # 💻 Tech Stack:
 #### Programming languages
@@ -31,7 +26,7 @@ tspscgs@gmail.com
 #### Stylesheet languages/Pre-processors
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
-#### Frameworks
+#### Frameworks/Libraries
 ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Brownie](https://img.shields.io/badge/-Brownie-795548?style=for-the-badge&logo=python&logoColor=white)
