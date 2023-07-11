@@ -58,4 +58,4 @@ I speak: :es: :uk: :fr:
 <sub>Stats created using a fork of https://github.com/anuraghazra/github-readme-stats</sub><br/><br/>
 ![Github stats](https://github-stats-tsenovilla.vercel.app/api?username=tsenovilla&theme=calm&custom_title=My%20Github%20Stats%20😸&show_icons=true&include_all_commits=true)<br/>
 ![Used languages stats](https://github-stats-tsenovilla.vercel.app/api/top-langs/?username=tsenovilla&layout=donut&theme=calm&langs_count=20&custom_title=Most%20used%20%languages%20⌨️)<br/>
-![Wakatime stats](https://github-stats-tsenovilla.vercel.app/api/wakatime?username=tsenovilla&theme=calm&custom_title=Weekly%20coding%20time%20⏰%20%20(via%20wakatime.com)&layout=compact)
+<!-- This is not working well with the Wakatime's free plan...![Wakatime stats](https://github-stats-tsenovilla.vercel.app/api/wakatime?username=tsenovilla&theme=calm&custom_title=Weekly%20coding%20time%20⏰%20%20(via%20wakatime.com)&layout=compact)-->
